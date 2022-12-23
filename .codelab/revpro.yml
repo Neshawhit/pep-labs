@@ -63,6 +63,7 @@
     :count_tests_passed: 1
     :tests:
       helloTest: 1
+      initializationError: 0
   MethodParameters:
     :Week: 1
     :Order: 3
