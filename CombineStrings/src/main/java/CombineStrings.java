@@ -10,6 +10,6 @@ public class CombineStrings {
     public String combine(String a, String b){
         
       
-        return "a"+ "b";
+        return "String a"+ "String b";
     }
 }
